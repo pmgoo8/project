@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.fd20ebeb.chunk.css",
+    "main.js": "/project/static/js/main.12d98373.chunk.js",
+    "main.js.map": "/project/static/js/main.12d98373.chunk.js.map",
+    "runtime-main.js": "/project/static/js/runtime-main.a1b69e6b.js",
+    "runtime-main.js.map": "/project/static/js/runtime-main.a1b69e6b.js.map",
+    "static/css/2.ec02d681.chunk.css": "/project/static/css/2.ec02d681.chunk.css",
+    "static/js/2.249e9c4a.chunk.js": "/project/static/js/2.249e9c4a.chunk.js",
+    "static/js/2.249e9c4a.chunk.js.map": "/project/static/js/2.249e9c4a.chunk.js.map",
+    "index.html": "/project/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/project/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.fd20ebeb.chunk.css.map": "/project/static/css/main.fd20ebeb.chunk.css.map",
+    "static/js/2.249e9c4a.chunk.js.LICENSE.txt": "/project/static/js/2.249e9c4a.chunk.js.LICENSE.txt",
+    "static/js/main.12d98373.chunk.js.LICENSE.txt": "/project/static/js/main.12d98373.chunk.js.LICENSE.txt",
+    "static/media/1page.295fc303.png": "/project/static/media/1page.295fc303.png",
+    "static/media/font.css": "/project/static/media/NIXGONFONTS L.2141236d.ttf",
+    "static/media/backb.739fd226.png": "/project/static/media/backb.739fd226.png",
+    "static/media/backc.4b68c526.png": "/project/static/media/backc.4b68c526.png",
+    "static/media/backf.5f66a7be.png": "/project/static/media/backf.5f66a7be.png",
+    "static/media/backt.6dd185fa.png": "/project/static/media/backt.6dd185fa.png",
+    "static/media/backu.c64d56b1.png": "/project/static/media/backu.c64d56b1.png",
+    "static/media/collaboration.85f3692d.png": "/project/static/media/collaboration.85f3692d.png",
+    "static/media/diary.dbd5623c.png": "/project/static/media/diary.dbd5623c.png",
+    "static/media/share.b2153e16.png": "/project/static/media/share.b2153e16.png",
+    "static/media/unionb.01c33d09.png": "/project/static/media/unionb.01c33d09.png",
+    "static/media/unionbc.5ed7afea.png": "/project/static/media/unionbc.5ed7afea.png",
+    "static/media/unionc.1a93f8cc.png": "/project/static/media/unionc.1a93f8cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b69e6b.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.249e9c4a.chunk.js",
+    "static/css/main.fd20ebeb.chunk.css",
+    "static/js/main.12d98373.chunk.js"
+  ]
+}
